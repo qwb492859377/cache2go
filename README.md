@@ -9,11 +9,11 @@ Make sure you have a working Go environment. See the [install instructions](http
 
 To install cache2go, simply run:
 
-    go get github.com/muesli/cache2go
+    go get github.com/qwb492859377/cache2go
 
 To compile it from source:
 
-    cd $GOPATH/src/github.com/muesli/cache2go
+    cd $GOPATH/src/github.com/qwb492859377/cache2go
     go get -u -v
     go build && go test -v
 
@@ -22,7 +22,7 @@ To compile it from source:
 package main
 
 import (
-	"github.com/muesli/cache2go"
+	"github.com/qwb492859377/cache2go"
 	"fmt"
 	"time"
 )

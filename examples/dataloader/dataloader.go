@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/muesli/cache2go"
+	"github.com/qwb492859377/cache2go"
 	"strconv"
 )
 
